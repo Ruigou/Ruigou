@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🦉 彩創夢工房 | SaisouYumeKoubou
 
-<!--
-**Ruigou/Ruigou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Creator & Developer | Japan 🇯🇵
 
-Here are some ideas to get you started:
+こんにちは！彩創夢工房（SaisouYumeKoubou）へようこそ。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+生成AIと創造力を掛け合わせ、作品づくりから便利なツールの開発まで、幅広い分野に挑戦しています。
+
+「学ぶ・創る・届ける」を大切に、一歩ずつ可能性を広げています。
+
+---
+
+## 🎨 Creative Works | 創作活動
+
+**Kindle出版・AIイラスト・デジタルコンテンツ**
+
+生成AIを活用し、絵本、大人の塗り絵、オリジナルキャラクター、デジタル作品などを企画・制作しています。
+
+## 💻 Development & Learning | 技術と学習
+
+**AI・プログラミング・Webツール開発**
+
+ChatGPT、Codex、Claude Codeなどを学びながら、AIを活用した制作支援ツールやWebアプリの開発に取り組んでいます。
+
+学習記録や開発成果も、段階的に公開していく予定です。
+
+## 🚀 Our Vision | 目指す未来
+
+創作と技術を結び付け、誰かの暮らしや創造活動に役立つ作品・サービスを届けること。
+
+学びを実践に変え、作品制作から事業展開へとつなげていきます。
+
+---
+
+**彩創夢工房 — Creativity × AI × Technology**
+
+*日本から、創造の可能性を世界へ。*
